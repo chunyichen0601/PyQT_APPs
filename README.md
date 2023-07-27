@@ -21,18 +21,17 @@ Connect Python and SQLite to query the paper database ([NIPS 2015 Papers](https:
 This application is exhibit the standings, sport news, and web forum articles. Types of sports included are as follows:
 
 * CPBL
-  The imformation in this part has:
   * Standings
-  * News
-  * Baseball board in PTT
+  * News from [LTN](https://sports.ltn.com.tw/cpbl) and [ETtoday](https://sports.ettoday.net/news-list/%E6%A3%92%E7%90%83/%E4%B8%AD%E8%81%B7/)
+  * [Baseball](https://www.ptt.cc/bbs/Baseball/index.html) board in PTT
 * NBA
   * Standings
-  * News
-  * NBA board in PTT
+  * News from [LTN](https://sports.ltn.com.tw/cpbl) and [ETtoday](https://sports.ettoday.net/news-list/%E7%B1%83%E7%90%83/NBA/)
+  * [NBA](https://www.ptt.cc/bbs/NBA/index.html) board in PTT
 * F1
   * Standings
   * Race schedule
-  * Formula1 board in PTT
+  * [Formula1](https://www.ptt.cc/bbs/FORMULA1/index.html) board in PTT
 
 # Reference
 * [Python App Design and Programming (QT + Designer + PyQt6 + PyQtGraph + SQLite 3) - Chun-Chao Wang](https://ntpuccw.blog/python-in-learning/)
