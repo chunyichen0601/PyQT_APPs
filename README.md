@@ -3,14 +3,14 @@ There are three types of apps, which are include a small statistics tool, query 
 
 ## [Statistics tool]()
 This application include three functionality as follow:
-* _Distribution_  /n
+* _Distribution_
   Collecting four different distribution, are Normal, Beta, F, and Gamma. Also, privode plot of the cdf and pdf. Moreover, The user can observe the change of the distribution by adjusting the parameters.
 * Derivative
 * -File-
 
-## Query database
+## [Query database]
 
 
-## Webcraeler
+## [Webcraeler]
 
 
