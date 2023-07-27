@@ -18,7 +18,7 @@ This application includes three functionality as follow:
 Connect Python and SQLite to query the paper database ([NIPS 2015 Papers](https://www.kaggle.com/datasets/benhamner/nips-2015-papers) ; [download](https://ntpuccw.blog/qt-designer-pyqt-sqlite-%e8%b3%87%e6%96%99%e5%ba%ab%e7%9a%84%e6%8a%80%e8%a1%93%e8%88%87%e6%87%89%e7%94%a8/)). This application include the three types of query database the and provides sub-windows to view the details.
 
 ## [Webcraeler](/webcrawler/)
-This application is exhibit the standings, sport news, and web forum articles. Types of sports included are as follows:
+This application is exhibit the standings, sport news, and web forum articles. In part of PTT, we can check the complete information in sub-windows. Types of sports included are as follows:
 
 * CPBL
   * Standings
@@ -30,7 +30,7 @@ This application is exhibit the standings, sport news, and web forum articles. T
   * [NBA](https://www.ptt.cc/bbs/NBA/index.html) board in PTT
 * F1
   * Standings
-  * Race schedule
+  * Race Schedule
   * [Formula1](https://www.ptt.cc/bbs/FORMULA1/index.html) board in PTT
 
 # Reference
