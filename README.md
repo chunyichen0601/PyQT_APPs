@@ -1,1 +1,1 @@
-# Pyqt_APPs
+# Three small APPs using PyQT6
