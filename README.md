@@ -8,9 +8,9 @@ This application include three functionality as follow:
 * Derivative
 * -File-
 
-## [Query database]
+## [Query database](/sqlite_query/)
 
 
-## [Webcraeler]
+## [Webcraeler](/webcrawler/)
 
 
