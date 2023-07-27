@@ -20,15 +20,15 @@ Connect Python and SQLite to query the paper database ([NIPS 2015 Papers](https:
 ## [Webcraeler](/webcrawler/)
 This application is exhibit the standings, sport news, and web forum articles. In part of PTT, we can check the complete information in sub-windows. Types of sports included are as follows:
 
-* CPBL
+* _CPBL_
   * Standings
   * News from [LTN](https://sports.ltn.com.tw/cpbl) and [ETtoday](https://sports.ettoday.net/news-list/%E6%A3%92%E7%90%83/%E4%B8%AD%E8%81%B7/)
   * [Baseball](https://www.ptt.cc/bbs/Baseball/index.html) board in PTT
-* NBA
+* _NBA_
   * Standings
   * News from [LTN](https://sports.ltn.com.tw/cpbl) and [ETtoday](https://sports.ettoday.net/news-list/%E7%B1%83%E7%90%83/NBA/)
   * [NBA](https://www.ptt.cc/bbs/NBA/index.html) board in PTT
-* F1
+* _F1_
   * Standings
   * Race Schedule
   * [Formula1](https://www.ptt.cc/bbs/FORMULA1/index.html) board in PTT
