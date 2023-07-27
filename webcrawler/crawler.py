@@ -22,7 +22,7 @@ class PTT_Window(QWidget):
     submitted = QtCore.pyqtSignal(str) # "submitted" is like a component name 
     def __init__(self):
         super().__init__()
-        uic.loadUi('Final_sub_PTT.ui', self)
+        uic.loadUi('crawler_sub_PTT.ui', self)
         # self.setGeometry(600, 200, 400, 400)
         
         self.setWindowTitle('文章展示')
@@ -128,7 +128,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
     def __init__(self, *args, **kwargs):
         super(MainWindow, self).__init__(*args, **kwargs)
-        uic.loadUi('Final_main.ui', self)
+        uic.loadUi('crawler_main.ui', self)
         self.setWindowTitle('運動速報')
         self.PTT_show_baseball()
         self.PTT_show_NBA()
